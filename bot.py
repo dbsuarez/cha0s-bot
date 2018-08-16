@@ -12,6 +12,6 @@ async def on_ready():
 
 @bot.command()
 async def greet(ctx):
-    await ctx.send(":smiley: :wave: Hello, there!"):
+    await ctx.send(":smiley: :wave: Hello, there!")
 
 bot.run('https://discordapp.com/api/webhooks/479578802771460098/l4bXi_-rFslHdWvjYGnL_mZPfl84v6uXBaol5YQqkFy_QloUlOE8PIfH572nuruZeJG0')
